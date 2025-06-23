@@ -16,4 +16,4 @@ Key deliverables included trend dashboards, churn analysis reports, and gender d
 ## **Database Model**
 Microsoft SQL server management studio and Tableau is used for the project. Microsoft power point is used for the presentation.
 The schema for the project is developed like below.
-![image](hospital_admissions_schema.png)
+![image](Sunshine_Desert_ERG.png)
