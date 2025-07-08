@@ -31,7 +31,7 @@ The Development, Production, and Sales departments consistently accounted for th
 From 1991 to 1999, there is a clear upward trend in salary expenditure across all departments, suggesting steady growth. However, post-1999, the data reveals a decline in total salary expenditure and headcount also, potentially indicating organizational downsizing or the economic constraints during that period.
 
 The table shows the percentage departmental share of total salary expenditure for the years 1991 and 2001 and the changes. the Customer Service department had the biggest increase in share of 1.7% while Sales had the largest decline of −1.5 percent in that period of time. This shift may reflect a strategic reallocation of resources.
-![image](growth chart with total.png)
+![image](salary_trend_analysis/growth chart with total.png)
 
 ## **Gender Balance Analysis**
 The red lines on the gender balance chart are US national unadjusted and adjusted average salary biases. The women earned between 98 and 101% of their male counterparts depending on department and all departments are well above the national average.
