@@ -37,7 +37,7 @@ The table shows the percentage departmental share of total salary expenditure fo
 The red lines on the gender balance chart are US national unadjusted and adjusted average salary biases. The women earned between 98 and 101% of their male counterparts depending on department and all departments are well above the national average.
 
 In the table the salary bias figures for 1991 and 2001. Women on average at the company earn very slightly more than men. However these data do not preclude there being gender bias issues within departments.
-![image](gender bias.png)
+![image](gender.png)
 
 ## **Employee Churn Analysis**
 For 2001, overall Customer Service, Research and Production are the top 3 in Churn rate with 3.1% and 3%. Interestingly more women are leaving from CS and Production while more men are leaving from Research. Research coincidentally has the highest churn for men and Quality the lowest while Production has the highest for Women and Marketing the lowest.
