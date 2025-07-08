@@ -17,3 +17,15 @@ Key deliverables included trend dashboards, churn analysis reports, and gender d
 Microsoft SQL server management studio and Tableau is used for the project. Microsoft power point is used for the presentation.
 The schema for the project is developed like below.
 ![image](Sunshine_Desert_ERG.png)
+![image](https://github.com/user-attachments/assets/e6269670-32b9-4eca-8238-880a6942a1b0)
+
+## **Salary Trend Analysis**
+Salary Trend analysis spans from 1991 to 2001, a period marked by various economical fluctuations. 
+To ensure comparability, all salaries were adjusted to 2001 US dollars using the U.S. Consumer Price Index.
+The Development, Production, and Sales departments consistently accounted for the highest levels of spending, indicating a central role in the organization.
+
+From 1991 to 1999, there is a clear upward trend in salary expenditure across all departments, suggesting steady growth. However, post-1999, the data reveals a decline in total salary expenditure and headcount also, potentially indicating organizational downsizing or the economic constraints during that period.
+
+The table shows the percentage departmental share of total salary expenditure for the years 1991 and 2001 and the changes. the Customer Service department had the biggest increase in share of 1.7% while Sales had the largest decline of −1.5 percent in that period of time. This shift may reflect a strategic reallocation of resources.
+
+
