@@ -6,6 +6,11 @@ This is a data analysis project for Cenit College's Data analysis course. This p
 ## **Table of Content**
 * Overview
 * Database Model
+* Salary Trend Analysis
+* Gender Balance Analysis
+* Employee Churn Analysis
+* Additional Insight
+* Conclusion
 
 ***
 ## **Overview**
