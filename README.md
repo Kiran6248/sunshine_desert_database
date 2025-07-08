@@ -31,15 +31,18 @@ The Development, Production, and Sales departments consistently accounted for th
 From 1991 to 1999, there is a clear upward trend in salary expenditure across all departments, suggesting steady growth. However, post-1999, the data reveals a decline in total salary expenditure and headcount also, potentially indicating organizational downsizing or the economic constraints during that period.
 
 The table shows the percentage departmental share of total salary expenditure for the years 1991 and 2001 and the changes. the Customer Service department had the biggest increase in share of 1.7% while Sales had the largest decline of −1.5 percent in that period of time. This shift may reflect a strategic reallocation of resources.
+![image](growthChart.png)
 
 ## **Gender Balance Analysis**
 The red lines on the gender balance chart are US national unadjusted and adjusted average salary biases. The women earned between 98 and 101% of their male counterparts depending on department and all departments are well above the national average.
 
 In the table the salary bias figures for 1991 and 2001. Women on average at the company earn very slightly more than men. However these data do not preclude there being gender bias issues within departments.
+![image](gender bias.png)
 
 ## **Employee Churn Analysis**
 For 2001, overall Customer Service, Research and Production are the top 3 in Churn rate with 3.1% and 3%. Interestingly more women are leaving from CS and Production while more men are leaving from Research. Research coincidentally has the highest churn for men and Quality the lowest while Production has the highest for Women and Marketing the lowest.
 Looking at churn rate across the company between 91 - 2001, it’s relatively low compared to the market which seems to be a good sign. People are generally happy and want to stay with the company for the long run. The only year where churn is relatively higher across departments is 2000 which could warrant further analysis to look into the reasons. Based on 10 years of data, no department is more susceptible to churn than another overall.
+![image](employee.png)
 
 ## **Additional Insight**
 Over the 11 years from 1991 to 2001 we can see salary expenditure decreasing across all departments, while in turn the staff numbers are increasing across all departments, but we see significant staff number increases in Development, Production and Sales.  Is the reason for those 3 significant increases understood by Management?
