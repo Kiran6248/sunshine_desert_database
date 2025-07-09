@@ -11,6 +11,7 @@ This is a data analysis project for Cenit College's Data analysis course. This p
 * [Employee Churn Analysis](#employee-churn-analysis)
 * [Additional Insight](#additional-insight)
 * [Conclusion](#conclusion)
+* [Technologies Used](#technologies-used)
 
 ***
 ## **Overview**
@@ -58,12 +59,12 @@ However, the discrepancy in the input data we were given leads us to question th
 There are gender balance differences in churn between departments that could be improved and we suggest that staff be surveyed to try determine if there is a cultural cause.
 
 ## **Technologies Used**
-[SQL](https://www.w3schools.com/sql/)
-[Tableau](https://www.tableau.com/)
-[Microsoft Excel](https://www.microsoft.com/en-ie/microsoft-365/excel)
-[Microsoft Powerpoint](https://www.microsoft.com/en-ie/microsoft-365/powerpoint)
-[Microsoft SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver17)
-[Canva](https://www.canva.com/)
+* [SQL](https://www.w3schools.com/sql/)
+* [Tableau](https://www.tableau.com/)
+* [Microsoft Excel](https://www.microsoft.com/en-ie/microsoft-365/excel)
+* [Microsoft Powerpoint](https://www.microsoft.com/en-ie/microsoft-365/powerpoint)
+* [Microsoft SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver17)
+* [Canva](https://www.canva.com/)
 
 
 
